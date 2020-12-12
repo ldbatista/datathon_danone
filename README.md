@@ -6,7 +6,8 @@ Desafio escolhido: "Qual o impacto do Suplemento Nutricional na prevenção de q
 
 
 ### Bases de dados utilizadas: 
- * Pesquisa de Orçamentos Familiares (POF 2017/2018) (https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=28523&t=o-que-e)
+ * Pesquisa de Orçamentos Familiares (POF 2017/2018) 
+ (https://www.ibge.gov.br/estatisticas/sociais/saude/24786-pesquisa-de-orcamentos-familiares-2.html?edicao=28523&t=o-que-e)
  * 
  
  
