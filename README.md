@@ -1,4 +1,4 @@
-# 1° DATATHON DE NUTRIÇÃO: Danone Nutricia
+## 1° DATATHON DE NUTRIÇÃO: Danone Nutricia
 
 Equipe 6 - NutriSquad
 
